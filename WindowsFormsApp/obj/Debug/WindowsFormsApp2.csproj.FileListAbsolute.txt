@@ -1,0 +1,65 @@
+E:\winform\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\winform\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\winform\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\winform\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+E:\winform\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\winform\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\winform\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\winform\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\winform\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\winform\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fdangnhap.resources
+E:\winform\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fQLKS.resources
+E:\winform\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fthongtin.resources
+E:\winform\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ftrogiup.resources
+E:\winform\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fphong.resources
+E:\winform\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fdichvu.resources
+E:\winform\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fkhackhang.resources
+E:\winform\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fthongke.resources
+D:\qlks\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\qlks\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\qlks\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\qlks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\qlks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fdangnhap.resources
+D:\qlks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fdichvu.resources
+D:\qlks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fkhackhang.resources
+D:\qlks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fphong.resources
+D:\qlks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fQLKS.resources
+D:\qlks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fthongke.resources
+D:\qlks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fthongtin.resources
+D:\qlks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ftrogiup.resources
+D:\qlks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\qlks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\qlks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\qlks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\qlks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\qlks\WindowsFormsApp2\bin\Debug\EntityFramework.dll
+D:\qlks\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.dll
+D:\qlks\WindowsFormsApp2\bin\Debug\EntityFramework.xml
+D:\qlks\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.xml
+D:\qlks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\New folder\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\New folder\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\New folder\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\New folder\WindowsFormsApp2\bin\Debug\EntityFramework.dll
+E:\New folder\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.dll
+E:\New folder\WindowsFormsApp2\bin\Debug\EntityFramework.xml
+E:\New folder\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.xml
+E:\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+E:\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fdangnhap.resources
+E:\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fdichvu.resources
+E:\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fkhackhang.resources
+E:\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fphong.resources
+E:\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fQLKS.resources
+E:\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fthongke.resources
+E:\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fthongtin.resources
+E:\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ftrogiup.resources
+E:\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fdatphong.resources
+E:\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ftraphong.resources
+E:\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fthanhtoan.resources
+E:\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fdatdichvu.resources

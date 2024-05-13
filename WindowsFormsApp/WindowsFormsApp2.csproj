@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{33D012F9-69C3-4ABF-8B1F-AD9BB5DEC927}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp2</RootNamespace>
+    <AssemblyName>WindowsFormsApp2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="fdatphong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fdatphong.Designer.cs">
+      <DependentUpon>fdatphong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fdichvu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fdichvu.Designer.cs">
+      <DependentUpon>fdichvu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fthanhtoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fthanhtoan.Designer.cs">
+      <DependentUpon>fthanhtoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ftraphong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ftraphong.Designer.cs">
+      <DependentUpon>ftraphong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connection.cs" />
+    <Compile Include="fdangnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fdangnhap.Designer.cs">
+      <DependentUpon>fdangnhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fdatdichvu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fdatdichvu.Designer.cs">
+      <DependentUpon>fdatdichvu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fkhackhang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fkhackhang.Designer.cs">
+      <DependentUpon>fkhackhang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fphong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fphong.Designer.cs">
+      <DependentUpon>fphong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fQLKS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fQLKS.Designer.cs">
+      <DependentUpon>fQLKS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fthongke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fthongke.Designer.cs">
+      <DependentUpon>fthongke.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fthongtin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fthongtin.Designer.cs">
+      <DependentUpon>fthongtin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ftrogiup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ftrogiup.Designer.cs">
+      <DependentUpon>ftrogiup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modify.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="fdangnhap.resx">
+      <DependentUpon>fdangnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fdatdichvu.resx">
+      <DependentUpon>fdatdichvu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fdichvu.resx">
+      <DependentUpon>fdichvu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fkhackhang.resx">
+      <DependentUpon>fkhackhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fdatphong.resx">
+      <DependentUpon>fdatphong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fphong.resx">
+      <DependentUpon>fphong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fQLKS.resx">
+      <DependentUpon>fQLKS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fthanhtoan.resx">
+      <DependentUpon>fthanhtoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fthongke.resx">
+      <DependentUpon>fthongke.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fthongtin.resx">
+      <DependentUpon>fthongtin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ftraphong.resx">
+      <DependentUpon>ftraphong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ftrogiup.resx">
+      <DependentUpon>ftrogiup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3378693.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rong.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
